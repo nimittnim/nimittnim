@@ -1,2 +1,1 @@
-- 👋 Heya!
--  I’m @nimittnim
+Hey there! I am Nimitt, an undergraduate student at the Indian Institute of Technology Gandhinagar, majoring in Computer Science and Engineering. I am interested in conducting research in the areas of Randomized and Approximation Algorithms, Learning Theory, Distribution Testing and their applications.
